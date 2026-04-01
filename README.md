@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤖 **AI Enthusiast** specialized in **Deep Learning** and **Generative AI**.
 
 ### 💻 Technical Expertise
-- **Frontend:** React.js, Three.js, HTML5, CSS3, JavaScript (ES6+) 
+- **Frontend:** React.js, Three.js, HTML, CSS, JavaScript
 - **Backend:** Python, ASP, Node.js, Django 
 - **Data & AI:** PyTorch, Spark, SQL (PostgreSQL/MySQL), MongoDB, Cassandra 
 - **Tools:** Git, Docker, Apache Airflow, AWS S3 

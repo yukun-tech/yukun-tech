@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🎓 Professional Summary
-- 💻 **MS in Computer Science** @ **Arizona State University** (GPA: 3.97) 
+- 💻 **MS in Computer Science** @ **Arizona State University** 
 - 🛠️ **Full-Stack Developer** with experience in building end-to-end B2B platforms and interactive 3D applications.
 - 🤖 **AI Enthusiast** specialized in **Deep Learning** and **Generative AI**.
 
